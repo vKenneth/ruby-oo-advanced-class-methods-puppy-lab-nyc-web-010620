@@ -16,7 +16,7 @@ end
   Dog.new("Fido")
   Dog.new("Maddy")
   
- 
+ def self.print_all
   
   
   
