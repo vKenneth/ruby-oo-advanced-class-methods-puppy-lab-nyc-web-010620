@@ -11,5 +11,6 @@
     @all
   end
   
-  Dog.new()
+  Dog.new("Bella")
+  
  
