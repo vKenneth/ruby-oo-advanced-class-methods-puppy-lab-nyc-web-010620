@@ -3,10 +3,7 @@
    @@all = []
    
    def initialize(name)
-     @Bella = Bella
-     @Loba = Loba
-     @Brian = Brian
-     @Snoopy = Snoopy
+     @name = name
      @@all << self
    end
    
@@ -14,5 +11,5 @@
     @all
   end
   
-  Dog.new 
+  Dog.new()
  
