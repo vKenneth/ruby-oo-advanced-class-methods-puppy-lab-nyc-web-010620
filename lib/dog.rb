@@ -26,6 +26,6 @@ end
    Dog.print_all
  end
  
- def 
+ def self.desttrpy
    
    
