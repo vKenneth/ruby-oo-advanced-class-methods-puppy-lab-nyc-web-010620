@@ -16,7 +16,7 @@ end
   Dog.new("Fido")
   Dog.new("Maddy")
   
-  Dog.clear_all
+ 
   
   
   
