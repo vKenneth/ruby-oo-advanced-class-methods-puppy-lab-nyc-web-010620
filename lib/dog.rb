@@ -27,6 +27,7 @@ end
  end
  
  def self.destroy_all
-   
+   self.clear_all
+ end
    
    
