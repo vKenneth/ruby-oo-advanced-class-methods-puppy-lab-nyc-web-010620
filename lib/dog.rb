@@ -7,7 +7,7 @@
      @@all << self
    end
    
-  Dog.all
+  def Dog.all
     @all
   end
 end
@@ -15,4 +15,6 @@ end
   Dog.new("Pluto")
   Dog.new("Fido")
   Dog.new("Maddy")
+  
+  Dog.clear_all
   
