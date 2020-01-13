@@ -10,7 +10,8 @@
   def self.all
     @all
   end
+end
   
   Dog.new("Bella")
+  Dog.new("Loba")
   
- 
