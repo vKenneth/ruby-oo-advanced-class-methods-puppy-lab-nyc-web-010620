@@ -1,11 +1,11 @@
+ require_relative "../lib/dog.rb"
+ 
  class Dog 
    attr_accessor 
    @@all = []
    
-   def initialize(Pluto, Fido, Maddy)
-     @Pluto = Pluto
-     @Fido = Fido
-     @Maddy = Maddy
+   def initialize(name)
+     @name = name
      
      @@all << self
    end
