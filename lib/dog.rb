@@ -10,7 +10,7 @@
      @@all << self
    end
    
-  def Dog.all
+  def self.all
     @all
   end
 end
