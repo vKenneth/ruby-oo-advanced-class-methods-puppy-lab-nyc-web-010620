@@ -1,2 +1,3 @@
  class Dog 
-   def initialize(name: )
+   attr_accessor 
+   def initialize(name)
