@@ -2,7 +2,7 @@
    attr_accessor 
    @@all = []
    
-   def initialize(Bella, Loba, Brian, Snoopy)
+   def initialize(name)
      @Bella = Bella
      @Loba = Loba
      @Brian = Brian
