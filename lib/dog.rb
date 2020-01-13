@@ -17,6 +17,7 @@ end
   Dog.new("Maddy")
   
  def self.print_all
+   sefl.all
   
   
   
