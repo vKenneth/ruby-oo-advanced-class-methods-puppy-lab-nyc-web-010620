@@ -24,3 +24,8 @@ end
    Dog.create("Maddy")
    
    Dog.print_all
+ end
+ 
+ def 
+   
+   
