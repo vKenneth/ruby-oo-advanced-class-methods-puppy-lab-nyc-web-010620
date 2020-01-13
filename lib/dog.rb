@@ -14,5 +14,5 @@
     @all
   end
   
-  
+  Dog.new 
  
