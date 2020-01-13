@@ -17,7 +17,7 @@ end
   Dog.new("Maddy")
   
  def self.print_all
-   sefl.all.each{Dog.print_all}.to output("Pluto\nFido\nMaddy").to_stdout
+   sefl.all.each{Dog.print_all}.to output("Pluto\nFido\nMaddy\n").to_stdout
    
    Dog.create("Pluto")
    Dog.create("Fido")
