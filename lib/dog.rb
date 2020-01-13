@@ -18,3 +18,5 @@ end
   
   Dog.clear_all
   
+  
+  
