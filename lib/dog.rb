@@ -19,4 +19,7 @@ end
  def self.print_all
    sefl.all.each{Dog.print_all}.to output("Pluto\nFido\nMadd").to_stdout
    
-   Dog.create
+   Dog.create("Pluto")
+   Dog.create("Fido")
+   Dog.create("Maddy")
+   
