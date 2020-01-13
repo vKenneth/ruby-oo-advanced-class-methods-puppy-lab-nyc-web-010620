@@ -7,7 +7,7 @@
      @@all << self
    end
    
-  def self.all
+  def self.select
     @all
   end
 end
