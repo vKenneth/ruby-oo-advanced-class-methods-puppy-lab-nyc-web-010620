@@ -2,8 +2,11 @@
    attr_accessor 
    @@all = []
    
-   def initialize(name)
-     @name = name
+   def initialize(Pluto, Fido, Maddy)
+     @Pluto = Pluto
+     @Fido = Fido
+     @Maddy = Maddy
+     
      @@all << self
    end
    
